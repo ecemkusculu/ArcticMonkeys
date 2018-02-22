@@ -230,6 +230,7 @@ hr {
 	height: 300px;
 	margin-bottom: 26px;
 	text-align: center;
+	padding-left: 10px;
 }
 .fotograflar canvas {
 	position: absolute;
